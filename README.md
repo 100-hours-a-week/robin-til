@@ -4,7 +4,7 @@
 
 ### [5월 셋째주, 1주차] : react, js
 
-24.05.13 세부 주제 1 작성 ([상세 내역 링크](https://github.com/kakao-cloud-edu-5/til-template/blob/main/May/2024-05-13))
+24.05.13 세부 주제 1 작성 ([상세 내역 링크](https://github.com/kakao-cloud-edu-5/til-template/main/May/2024-05-13))
 
 ### [4월 첫째주, 1주차] : html, css
 
