@@ -4,7 +4,7 @@
 
 ### [5월 -] : react, js, java, db
 
-24.05.22 자바 개념 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/robin-til/blob/main/May/2024-05-29.md))
+24.05.29 db 기본 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/robin-til/blob/main/May/2024-05-29.md))
 
 24.05.22 자바 개념 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/robin-til/blob/main/May/2024-05-22.md))
 
