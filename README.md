@@ -2,6 +2,11 @@
 
 ## 오늘 내가 배운 것들(Today I Learned)
 
+### [7월 -] : AWS
+
+24.07.01 AWS기초 ([상세 내역 링크](https://github.com/100-hours-a-week/robin-til/blob/main/July/2024-07-01.md))
+
+
 ### [5월 -] : react, js, java, db
 
 24.05.29 db 기본 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/robin-til/blob/main/May/2024-05-29.md))
