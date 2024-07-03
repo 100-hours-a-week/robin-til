@@ -4,6 +4,8 @@
 
 ### [7월 -] : AWS
 
+24.07.03 docker실습 ([상세 내역 링크](https://github.com/100-hours-a-week/robin-til/blob/main/July/2024-07-03.md))
+
 24.07.01 AWS기초 ([상세 내역 링크](https://github.com/100-hours-a-week/robin-til/blob/main/July/2024-07-01.md))
 
 
