@@ -4,6 +4,8 @@
 
 ### [7월 -] : AWS
 
+24.07.05 EC2,RDS ssh배포 ([상세 내역 링크](https://github.com/100-hours-a-week/robin-til/blob/main/July/2024-07-06.md))
+
 24.07.05 Maven repository ([상세 내역 링크](https://github.com/100-hours-a-week/robin-til/blob/main/July/2024-07-05.md))
 
 24.07.03 docker실습 ([상세 내역 링크](https://github.com/100-hours-a-week/robin-til/blob/main/July/2024-07-03.md))
